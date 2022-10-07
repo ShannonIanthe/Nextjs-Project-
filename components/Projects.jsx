@@ -22,17 +22,17 @@ function Projects() {
           <ProjectItem
             title="Wedding Website"
             backgroundImg={weddingImg}
-            projectUrl="/property"
+            projectUrl="/wedding"
           />
           <ProjectItem
-            title="Professional Website"
+            title="Quote Website"
             backgroundImg={quoteImg}
-            projectUrl="/property"
+            projectUrl="/quote"
           />
           <ProjectItem
-            title="Professional Website"
+            title="Trivia Website"
             backgroundImg={triviaImg}
-            projectUrl="/property"
+            projectUrl="/Trivia"
           />
         </div>
       </div>
