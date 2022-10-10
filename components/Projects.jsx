@@ -32,7 +32,7 @@ function Projects() {
           <ProjectItem
             title="Trivia Website"
             backgroundImg={triviaImg}
-            projectUrl="/Trivia"
+            projectUrl="/triv"
           />
         </div>
       </div>

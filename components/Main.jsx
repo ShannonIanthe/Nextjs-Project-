@@ -14,7 +14,7 @@ function Main() {
             <h1 className='py-4 text-gray-700'>
             Hi, Im <span className='text-[#5651e5]'>Shannon</span></h1>
             <h1 className='py-2 text-gray-700'> A Front-End Web Developer </h1>
-            <p className='py-4 text-gray-600 max-w-[70%] m-auto'>I am a front-end web developer specializing in building and designing exceptional digital experiences. I focus on building responsive front-end applications while learning back-end technologies</p>
+            <p className='py-4 text-gray-600 max-w-[70%] m-auto'>I am a front-end web developer specializing in building and designing exceptional digital experiences. I focus on building responsive front-end applications while learning back-end technologies.</p>
             <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
                 <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                     <FaLinkedinIn />
